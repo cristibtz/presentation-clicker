@@ -1,0 +1,18 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/gradle/wrapper/gradle-wrapper.jar
+
+# Companion
+companion/build/
+companion/dist/
+companion/__pycache__/
+companion/*.spec
+companion/error.log
+
+# General
+*.pyc
+.DS_Store
+*.log
