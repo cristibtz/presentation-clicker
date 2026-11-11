@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Cristix\\.gradle\\daemon\\8.9\\com.presenterremote.app-debug-71:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Cristix\\.gradle\\daemon\\8.9\\com.presenterremote.app-main-73:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "com.presenterremote.app-debug-71:/xml_network_security_config.xml.flat",
+        "source": "com.presenterremote.app-main-73:/xml/network_security_config.xml"
+    }
+]
